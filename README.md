@@ -1,1 +1,1 @@
-# MusicStore
+# Simple PHP Online Music Store 
